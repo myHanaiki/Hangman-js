@@ -10,7 +10,8 @@ A simple Hangman game built using **HTML, CSS, and JavaScript**. Try to guess th
 - 🎨 Simple and clean UI
 
 ## 📸 Screenshot
-![Hangman Game Preview](https://via.placeholder.com/800x400?text=Hangman+Game+Preview)
+![Hangman Game Preview]
+<img width="1512" alt="Screenshot 2025-03-10 at 6 15 34 PM" src="https://github.com/user-attachments/assets/f70fbde3-7a08-4afa-b2ee-477a3e006c2f" />
 
 ## 🚀 Live Demo
 🔗 [Play Hangman Online](#) *(Add your hosted link here)*
